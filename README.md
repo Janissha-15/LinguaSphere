@@ -110,13 +110,13 @@ This project applies the following core Object-Oriented Programming (OOP) concep
 ## DEMO
 
 <p align="left">
-  <img src="./OP_SS/OP_SS1.png" width="400" />
-  <img src="./OP_SS/OP_SS2.png" width="400" />
+  <img src="./OP_SS(2)/OP_SS1.png" width="400" />
+  <img src="./OP_SS(2)/OP_SS2.png" width="400" />
 </p>
 
 <p align="left">
-  <img src="./OP_SS/OP_SS3.png" width="400" />
-  <img src="./OP_SS/OP_SS4.png" width="400" />
+  <img src="./OP_SS(2)/OP_SS3.png" width="400" />
+  <img src="./OP_SS(2)/OP_SS4.png" width="400" />
 </p>
 
 
