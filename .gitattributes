@@ -1,0 +1,6 @@
+*.java linguist-language=Java
+*.kt linguist-language=Kotlin
+*.sh linguist-vendored
+*.xml linguist-vendored
+*.yml linguist-vendored
+*.md linguist-vendored
